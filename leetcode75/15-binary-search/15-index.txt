@@ -1,0 +1,4 @@
+374. Guess Number Higher or Lower
+2300. Successful Pairs of Spells and Potions
+162. Find Peak Element
+875. Koko Eating Bananas
