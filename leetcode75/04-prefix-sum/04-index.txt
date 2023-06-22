@@ -1,0 +1,2 @@
+1732. Find the Highest Altitude
+724. Find Pivot Index
